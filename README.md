@@ -20,7 +20,7 @@ Los datos utilizados en este proyecto fueron obtenidos de la Sociedad Dominicana
    - Visualizaciones para entender patrones temporales y espaciales.
 
 3. **Construcción de Modelos:**
-   - Implementación de modelos de Random Forest y Gradient Boosting.
+   - Implementación de modelos Regression logistica.
    - Evaluación de los modelos utilizando métricas de precisión.
 .
 
