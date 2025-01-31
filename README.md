@@ -1,5 +1,5 @@
 
-# Predicción de Robos Utilizando Aprendizaje Supervisado
+# Predicción Utilizando Aprendizaje Supervisado
 
 ## Introducción
 
